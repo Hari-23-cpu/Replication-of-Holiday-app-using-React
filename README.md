@@ -6,8 +6,6 @@ My Lifestyle Blog is a React-based replica of a modern holiday website, designed
 
 🏝️ Dynamic UI built with React components for smooth navigation.
 
-📱 Fully responsive design compatible with mobile, tablet, and desktop.
-
 📰 Blog section to showcase lifestyle articles and travel experiences.
 
 🌇 Gallery view for displaying destination highlights.
